@@ -9,7 +9,7 @@ using namespace std;
 #define rep(j,i,n) for(int j = i;j<n;j++)
 int main()
 {
-    int T=1;
+    int T;
     cin>>T;
     while(T--) {
         int n;
